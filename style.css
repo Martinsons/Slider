@@ -1,0 +1,9 @@
+.galleria {
+	width: 700px;
+	height: 400px;
+	background: #000;
+}
+
+img {
+  max-width: 100%;
+}
